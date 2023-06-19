@@ -8,8 +8,8 @@
       "last": "Clarke"
     },
     "image": "/images/emilia-clarke.jpg",
-    "image_1000": "/images/img-1000/emilia-clarke(1000).jpg",
-    "image_500": "/images/img-500/emilia-clarke(500).jpg",
+    "imageMiddle": "/images/img-1000/emilia-clarke(1000).jpg",
+    "imageSmall": "/images/img-500/emilia-clarke(500).jpg",
     "slider": [
       "/emilia-clarke-movies/Above-Suspicion.jpg","/emilia-clarke-movies/Voice-from-the-stone.jpg",
       "/emilia-clarke-movies/Last-Christmas.jpg","/emilia-clarke-movies/Me-Before-You.jpg",
