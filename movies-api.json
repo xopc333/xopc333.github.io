@@ -16,5 +16,23 @@
       "/emilia-clarke-movies/solo.jpg","/emilia-clarke-movies/Spike-Island.jpg",
       "/emilia-clarke-movies/Dom-Hemingway.jpg"
     ]
+  },
+  {
+    "id": "2",
+    "title": "Kit Harington",
+    "linck": "/kit-harington",
+    "name ": {
+      "first": "Kit",
+      "last": "Harington"
+    },
+    "image": "/images/kit-harington.jpg",
+    "imageMiddle": "/images/img-1000/kit-harington(1000).jpg",
+    "imageSmall": "/images/img-500/kit-harington(500).jpg",
+    "slider": [
+      "/kit-harington-movies/Better-fate.jpg","/kit-harington-movies/brimstone.jpg",
+      "/kit-harington-movies/gunpowder.jpg","/kit-harington-movies/John-F-Donovan.jpg",
+      "/kit-harington-movies/pompeii.jpg","/kit-harington-movies/Seventh-Son.jpg",
+      "/kit-harington-movies/Silent-Hill.jpg"
+    ]
   }
 ]
