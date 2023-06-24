@@ -34,5 +34,113 @@
       "/kit-harington-movies/pompeii.jpg","/kit-harington-movies/Seventh-Son.jpg",
       "/kit-harington-movies/Silent-Hill.jpg"
     ]
+  },
+  {
+    "id": "3",
+    "title": "Maisie Williams",
+    "linck": "/maisie-williams",
+    "name ": {
+      "first": "Maisie",
+      "last": "Williams"
+    },
+    "image": "/images/maisie-williams.jpg",
+    "imageMiddle": "/images/img-1000/maisie-williams(1000).jpg",
+    "imageSmall": "/images/img-500/maisie-williams(500).jpg",
+    "slider": [
+      "/maisie-williams-movies/cyberbully.jpg","/maisie-williams-movies/crickley-hall.jpg",
+      "/maisie-williams-movies/book-love.jpg","/maisie-williams-movies/mary-shelley.jpg",
+      "/maisie-williams-movies/the-falling.jpg","/maisie-williams-movies/then-came-you.jpg",
+      "/maisie-williams-movies/two-weeks.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Peter Dinklage",
+    "linck": "/peter-dinklage",
+    "name ": {
+      "first": "Peter",
+      "last": "Dinklage"
+    },
+    "image": "/images/peter-dinklage.jpg",
+    "imageMiddle": "/images/img-1000/peter-dinklage(1000).jpg",
+    "imageSmall": "/images/img-500/peter-dinklage(500).jpg",
+    "slider": [
+      "/pater-dinklage-movies/death-funeral.jpg","/pater-dinklage-movies/i-care-a-lot.jpg",
+      "/pater-dinklage-movies/living-in-oblivion.jpg","/pater-dinklage-movies/narnia.jpg",
+      "/pater-dinklage-movies/station-agent.jpg","/pater-dinklage-movies/three-billboards.jpg",
+      "/pater-dinklage-movies/threshold.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Lena Headey",
+    "linck": "/lena-headey",
+    "name ": {
+      "first": "Lena",
+      "last": "Headey"
+    },
+    "image": "/images/lena-headey.jpg",
+    "imageMiddle": "/images/img-1000/lena-headey(1000).jpg",
+    "imageSmall": "/images/img-500/lena-headey(500).jpg",
+    "slider": [
+      "/lena-headey-movies/aberdeen.jpg","/lena-headey-movies/broken.jpg",
+      "/lena-headey-movies/gossip.jpg","/lena-headey-movies/jungle-book.jpg",
+      "/lena-headey-movies/man-with-rain.jpg","/lena-headey-movies/merlin.jpg",
+      "/lena-headey-movies/onegin.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Natalie Dormer",
+    "linck": "/natalie-dormer",
+    "name ": {
+      "first": "Natalie",
+      "last": "Dormer"
+    },
+    "image": "/images/natalie-dormer.jpg",
+    "imageMiddle": "/images/img-1000/natalie-dormer(1000).jpg",
+    "imageSmall": "/images/img-500/natalie-dormer(500).jpg",
+    "slider": [
+      "/natalie-dormer-movies/darkness.jpg","/natalie-dormer-movies/hunger-games.jpg",
+      "/natalie-dormer-movies/penny-dreadful.jpg","/natalie-dormer-movies/picnic-hanging-rock.jpg",
+      "/natalie-dormer-movies/rush.jpg","/natalie-dormer-movies/scandalous-lady.jpg",
+      "/natalie-dormer-movies/tudors.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Nikolai Coster-Waldau",
+    "linck": "/nikolai-coster-waldau",
+    "name ": {
+      "first": "Nikolai",
+      "last": "Coster-Waldau"
+    },
+    "image": "/images/nikolai-coster-waldau.jpg",
+    "imageMiddle": "/images/img-1000/nikolai-coster-waldau(1000).jpg",
+    "imageSmall": "/images/img-500/nikolai-coster-waldau(500).jpg",
+    "slider": [
+      "/nikolai-coster-waldau-movies/against-the-lce.jpg","/nikolai-coster-waldau-movies/en-chance-til.jpg",
+      "/nikolai-coster-waldau-movies/gods-of-egypt.jpg","/nikolai-coster-waldau-movies/hodejegerne.jpg",
+      "/nikolai-coster-waldau-movies/new-amsterdam","/nikolai-coster-waldau-movies/shot-caller.jpg",
+      "/nikolai-coster-waldau-movies/the-silencing.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Sean Bean",
+    "linck": "/natalie-dormer",
+    "name ": {
+      "first": "Sean",
+      "last": "Bean"
+    },
+    "image": "/images/sean-bean.jpg",
+    "imageMiddle": "/images/img-1000/sean-bean(1000).jpg",
+    "imageSmall": "/images/img-500/sean-bean(500).jpg",
+    "slider": [
+      "/sean-bean-movies/equilibrium.jpg","/sean-bean-movies/lord-of-the-rings.jpg",
+      "/sean-bean-movies/martian.jpg","/sean-bean-movies/medici.jpg",
+      "/sean-bean-movies/national-treasure.jpg","/sean-bean-movies/sharpe.jpg",
+      "/sean-bean-movies/troy.jpg"
+    ]
   }
 ]
