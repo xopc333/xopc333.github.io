@@ -1,5 +1,5 @@
-[
-  {
+{
+  "emilia-clarke":{
     "id": "1",
     "title": "Emilia Clarke",
     "linck": "/emilia-clarke",
@@ -17,7 +17,7 @@
       "/emilia-clarke-movies/Dom-Hemingway.jpg"
     ]
   },
-  {
+  "kit-harington":{
     "id": "2",
     "title": "Kit Harington",
     "linck": "/kit-harington",
@@ -35,7 +35,7 @@
       "/kit-harington-movies/Silent-Hill.jpg"
     ]
   },
-  {
+  "maisie-williams":{
     "id": "3",
     "title": "Maisie Williams",
     "linck": "/maisie-williams",
@@ -53,7 +53,7 @@
       "/maisie-williams-movies/two-weeks.jpg"
     ]
   },
-  {
+  "peter-dinklage":{
     "id": "4",
     "title": "Peter Dinklage",
     "linck": "/peter-dinklage",
@@ -71,7 +71,7 @@
       "/pater-dinklage-movies/threshold.jpg"
     ]
   },
-  {
+  "lena-headey":{
     "id": "5",
     "title": "Lena Headey",
     "linck": "/lena-headey",
@@ -89,7 +89,7 @@
       "/lena-headey-movies/onegin.jpg"
     ]
   },
-  {
+  "natalie-dormer":{
     "id": "6",
     "title": "Natalie Dormer",
     "linck": "/natalie-dormer",
@@ -107,7 +107,7 @@
       "/natalie-dormer-movies/tudors.jpg"
     ]
   },
-  {
+  "nikolai-coster-waldau":{
     "id": "7",
     "title": "Nikolai Coster-Waldau",
     "linck": "/nikolai-coster-waldau",
@@ -125,10 +125,10 @@
       "/nikolai-coster-waldau-movies/the-silencing.jpg"
     ]
   },
-  {
+  "sean-bean":{
     "id": "8",
     "title": "Sean Bean",
-    "linck": "/natalie-dormer",
+    "linck": "/sean-bean",
     "name ": {
       "first": "Sean",
       "last": "Bean"
@@ -143,4 +143,4 @@
       "/sean-bean-movies/troy.jpg"
     ]
   }
-]
+}
