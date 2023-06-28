@@ -3,10 +3,8 @@
     "id": "1",
     "title": "Emilia Clarke",
     "linck": "/emilia-clarke",
-    "name ": {
-      "first": "Emilia",
-      "last": "Clarke"
-    },
+    "firstName": "Emilia",
+    "lastName": "Clarke",
     "image": "/images/emilia-clarke.jpg",
     "imageMiddle": "/images/img-1000/emilia-clarke(1000).jpg",
     "imageSmall": "/images/img-500/emilia-clarke(500).jpg",
@@ -21,10 +19,8 @@
     "id": "2",
     "title": "Kit Harington",
     "linck": "/kit-harington",
-    "name ": {
-      "first": "Kit",
-      "last": "Harington"
-    },
+    "firstName": "Kit",
+    "lastName": "Harington",
     "image": "/images/kit-harington.jpg",
     "imageMiddle": "/images/img-1000/kit-harington(1000).jpg",
     "imageSmall": "/images/img-500/kit-harington(500).jpg",
@@ -39,10 +35,8 @@
     "id": "3",
     "title": "Maisie Williams",
     "linck": "/maisie-williams",
-    "name ": {
-      "first": "Maisie",
-      "last": "Williams"
-    },
+    "firstName": "Maisie",
+    "lastName": "Williams",
     "image": "/images/maisie-williams.jpg",
     "imageMiddle": "/images/img-1000/maisie-williams(1000).jpg",
     "imageSmall": "/images/img-500/maisie-williams(500).jpg",
@@ -57,10 +51,8 @@
     "id": "4",
     "title": "Peter Dinklage",
     "linck": "/peter-dinklage",
-    "name ": {
-      "first": "Peter",
-      "last": "Dinklage"
-    },
+    "firstName": "Peter",
+    "lastName": "Dinklage",
     "image": "/images/peter-dinklage.jpg",
     "imageMiddle": "/images/img-1000/peter-dinklage(1000).jpg",
     "imageSmall": "/images/img-500/peter-dinklage(500).jpg",
@@ -75,10 +67,8 @@
     "id": "5",
     "title": "Lena Headey",
     "linck": "/lena-headey",
-    "name ": {
-      "first": "Lena",
-      "last": "Headey"
-    },
+    "firstName": "Lena",
+    "lastName": "Headey",
     "image": "/images/lena-headey.jpg",
     "imageMiddle": "/images/img-1000/lena-headey(1000).jpg",
     "imageSmall": "/images/img-500/lena-headey(500).jpg",
@@ -93,10 +83,8 @@
     "id": "6",
     "title": "Natalie Dormer",
     "linck": "/natalie-dormer",
-    "name ": {
-      "first": "Natalie",
-      "last": "Dormer"
-    },
+    "firstName": "Natalie",
+    "lastName": "Dormer",
     "image": "/images/natalie-dormer.jpg",
     "imageMiddle": "/images/img-1000/natalie-dormer(1000).jpg",
     "imageSmall": "/images/img-500/natalie-dormer(500).jpg",
@@ -111,10 +99,8 @@
     "id": "7",
     "title": "Nikolai Coster-Waldau",
     "linck": "/nikolai-coster-waldau",
-    "name ": {
-      "first": "Nikolai",
-      "last": "Coster-Waldau"
-    },
+    "firstName": "Nikolai",
+    "lastName": "Coster-Waldau",
     "image": "/images/nikolai-coster-waldau.jpg",
     "imageMiddle": "/images/img-1000/nikolai-coster-waldau(1000).jpg",
     "imageSmall": "/images/img-500/nikolai-coster-waldau(500).jpg",
@@ -129,10 +115,8 @@
     "id": "8",
     "title": "Sean Bean",
     "linck": "/sean-bean",
-    "name ": {
-      "first": "Sean",
-      "last": "Bean"
-    },
+    "firstName": "Sean",
+    "lastName": "Bean",
     "image": "/images/sean-bean.jpg",
     "imageMiddle": "/images/img-1000/sean-bean(1000).jpg",
     "imageSmall": "/images/img-500/sean-bean(500).jpg",
