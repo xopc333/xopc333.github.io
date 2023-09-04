@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Seven-wonders",
+    "description": "Seven wonders of the world. Our time",
+    "data-name": "pyramids",
+    "h1": ["7 wonders of","the world","Our time"],
+    "img-big": "https://xopc333.github.io/Seven-wonders/images/pyramids.jpg",
+    "img-small": "https://xopc333.github.io/Seven-wonders/images/pyramids(1000).jpg"
+  },
+  {
+    "id": "2",
+    "title": "Chichen-Itza",
+    "description": "Seven wonders of the world - Chichen-Itza",
+    "data-name": "chichen-itza",
+    "h1": "Chichen-Itza",
+    "img-big": "https://xopc333.github.io/Seven-wonders/images/chichen-itza.jpg",
+    "img-small": "https://xopc333.github.io/Seven-wonders/images/chichen-itza(1000).jpg",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aspernatur, consequatur enim itaque modi nulla omnis quam quasi tempora. Ab facilis impedit in incidunt nisi. Autem cumque illum ipsam iusto libero molestiae molestias nam natus nesciunt optio quis quisquam sint, vitae. Non nulla saepe totam. Accusamus architecto atque consequatur, dignissimos id, in iusto maiores molestias perferendis praesentium quis quos rem repudiandae sint sit ut voluptas. Consequatur consequuntur cum dicta fugit maiores? Asperiores consectetur distinctio doloremque iusto maiores repellat repellendus reprehenderit unde! Accusantium consectetur consequuntur corporis cumque ea eos, est expedita fugiat in inventore itaque odio, quo quod, temporibus voluptatum? Architecto asperiores beatae deleniti, doloribus error explicabo fugit laboriosam modi neque optio.</p><img src=`https://xopc333.github.io/Seven-wonders/images/small-500/chichen-itza(500)-two.jpg` alt=`` class=`article-img` align=`left`/><p>Ab aperiam at blanditiis, culpa doloremque error eum facere facilis inventore, odio quam quibusdam similique tempore? Animi aperiam blanditiis deserunt dignissimos distinctio doloribus eaque est, ex exercitationem expedita explicabo facere fugit incidunt iste laborum modi molestias nam neque nulla odio odit officia perferendis placeat provident quae quam quo reprehenderit rerum sapiente sequi sint ullam voluptas voluptate! Aliquid beatae commodi dolor laboriosam quam quo soluta tenetur voluptatem. A delectus dignissimos ea enim incidunt labore non veritatis!</p>",
+    "img-content": "https://xopc333.github.io/Seven-wonders/images/small-500/chichen-itza(500)-two.jpg"
+  }
+]
