@@ -4,7 +4,7 @@
     "title": "Seven-wonders",
     "description": "Seven wonders of the world. Our time",
     "data-name": "pyramids",
-    "h1": ["7 wonders of","the world","Our time"],
+    "h1": "7 wonders of <span style=\"white-space: nowrap;\">the world<\/span><br><span class=\"h2\">Our time<\/span>",
     "img-big": "https://xopc333.github.io/Seven-wonders/images/pyramids.jpg",
     "img-small": "https://xopc333.github.io/Seven-wonders/images/small-1000/pyramids(1000).jpg"
   },
