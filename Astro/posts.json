@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "slug": "/first",
     "title": "First Article",
     "description": "Description First Article",
     "img": "https://xopc333.github.io/Asto/images/first-article.jpg",
@@ -9,6 +10,7 @@
   },
   {
     "id": "2",
+    "slug": "/second",
     "title": "Second Article",
     "description": "Description Second Article",
     "img": "https://xopc333.github.io/Asto/images/second-article.jpg",
@@ -17,6 +19,7 @@
   },
   {
     "id": "3",
+    "slug": "/third",
     "title": "Third Article",
     "description": "Description Third Article",
     "img": "https://xopc333.github.io/Asto/images/third-article.jpg",
@@ -25,6 +28,7 @@
   },
   {
     "id": "4",
+    "slug": "/four",
     "title": "Article Four",
     "description": "Description Article Four",
     "img": "https://xopc333.github.io/Asto/images/four-article.jpg",
@@ -33,6 +37,7 @@
   },
   {
     "id": "5",
+    "slug": "/five",
     "title": "Article Five",
     "description": "Description Article Five",
     "img": "https://xopc333.github.io/Asto/images/five-article.jpg",
@@ -41,6 +46,7 @@
   },
   {
     "id": "6",
+    "slug": "/six",
     "title": "Article Six",
     "description": "Description Article Six",
     "img": "https://xopc333.github.io/Asto/images/six-article.jpg",
